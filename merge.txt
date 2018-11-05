@@ -1,3 +1,7 @@
 start
 
+<<<<<<< a760174718b7b76cdd703b9c62547bc5a0cdfddf
 2. add one line
+=======
+1 add line
+>>>>>>> add 1 line
